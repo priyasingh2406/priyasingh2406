@@ -1,4 +1,4 @@
-[![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)]
+![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding"  width="400" src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/05/terminals.png">
